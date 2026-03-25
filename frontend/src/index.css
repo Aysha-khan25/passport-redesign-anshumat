@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.active {
+  color: #00ffcc;
+  font-weight: bold;
+}
